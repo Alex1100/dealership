@@ -1,7 +1,7 @@
 package luxury.cars.controller;
 
 import org.springframework.web.bind.annotation.*;
-import luxury.cars.Car;
+import luxury.cars.model.domain.Car;
 
 import java.util.*;
 import java.util.stream.Collectors;
